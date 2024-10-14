@@ -3,12 +3,12 @@ danial hirzan akbary 2409116098
 ![image](https://github.com/user-attachments/assets/1db4399e-162e-4e57-8ec1-6b8aa7bb93df)
 
 
-###output
+### output
 
 
 ![image](https://github.com/user-attachments/assets/b1825335-801d-4fb1-8e78-5cc104313ebf)
 
-#menu login untuk menentukan role dari pengguna
+# menu login untuk menentukan role dari pengguna
 
 1)role admin dapat melakukan Crud
 
@@ -16,7 +16,7 @@ danial hirzan akbary 2409116098
 
 3)username atau password salah
 
-##menu admin
+## menu admin
 
 
 ![image](https://github.com/user-attachments/assets/7a044325-b6c8-46b3-a28e-83247b4a4973)
@@ -47,7 +47,7 @@ danial hirzan akbary 2409116098
 
 ![image](https://github.com/user-attachments/assets/3ca771ab-e73e-4655-8afb-647666176f4f)
 
-##menu user
+## menu user
 
 
 ![image](https://github.com/user-attachments/assets/6449d8c3-cbd8-41ca-b37e-b5f12022ac80)
